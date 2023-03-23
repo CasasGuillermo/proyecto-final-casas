@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pedigree cachorro",
+        "precio": 2000,
+        "img": "https://www.pedigree.com.ar/cdn-cgi/image/format=auto,q=90/sites/g/files/fnmzdf1506/files/2022-10/7797453000468-product-image-1.png",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Pedigree razas pequeñas",
+        "precio": 1500,
+        "img": "https://www.pedigree.com.ar/cdn-cgi/image/format=auto,q=90/sites/g/files/fnmzdf1506/files/2022-10/7797453000482-product-image-1.png",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Pedigree adulto",
+        "precio": 1300,
+        "img": "https://www.pedigree.com.ar/cdn-cgi/image/format=auto,q=90/sites/g/files/fnmzdf1506/files/2022-10/7797453000802-product-image-1.png",
+        "cantidad": 1
+    }
+]
