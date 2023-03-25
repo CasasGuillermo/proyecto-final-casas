@@ -151,8 +151,8 @@ i {
 
 .carritoImagen {
     position: absolute;
-    top: 90px;
-    right: 280px;
+    top: 10%;
+    right: 16%;
     cursor: pointer;
     transition: all 300ms;
 }
